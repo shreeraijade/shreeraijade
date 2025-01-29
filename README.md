@@ -1,6 +1,11 @@
 <h1 align="center">👋 Hi, I'm Shreyas! 🚀</h1>
 
 <p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500px"/>
+</p>
+
+
+<p align="center">
   <img src="https://komarev.com/ghpvc/?username=Shreyas123&label=Profile+Views&color=0e75b6&style=flat" alt="Shreyas" />
   <img src="https://img.shields.io/badge/-FullStack-blue?style=flat-square&logo=react" />
   <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
@@ -9,17 +14,12 @@
 
 ---
 
+
+
 ## 🚀 **About Me**  
 💻 Passionate **Full-Stack Developer**  
 🌱 Exploring **AI & ML**     
 🏆 **BlackRock Hackathon Participant**   
-
----
-
-## 🏆 **GitHub Trophies**
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=shreeraijade&theme=radical&no-frame=true&column=4" />
-</p>
 
 ---
 
@@ -43,6 +43,13 @@
 
 ---
 
+## 🏆 **GitHub Trophies**
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=shreeraijade&theme=radical&no-frame=true&column=4" />
+</p>
+
+---
+
 ## 📊 **GitHub Stats**
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=shreeraijade&show_icons=true&theme=radical" alt="GitHub Stats" />
@@ -50,6 +57,7 @@
 </p>
 
 ---
+
 
 ## 📸 **Photo Grid**
 <table>
